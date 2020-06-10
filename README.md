@@ -1,5 +1,5 @@
 # Proyecto POO
  
-Alumno: Bautista Domínguez Miguel Ángel
-Semestre: Segundo
-Profesor: Mario García
+Alumno: Bautista Domínguez Miguel Ángel /n
+Semestre: Segundo /n
+Profesor: Mario García /n
