@@ -1,0 +1,21 @@
+[{
+    "Precio": {
+        "FechaInicio": "2020-03-20T00:00:00",
+        "FechaFinal": "2020-12-30T00:00:00",
+        "Precio": 100
+    },
+    "Codigo": "G27QJAE5",
+    "Descripcion": "Cubreboca",
+    "Departamento": 8,
+    "Likes": 5000
+}, {
+    "Precio": {
+        "FechaInicio": "2019-02-24T00:00:00",
+        "FechaFinal": "2020-12-25T00:00:00",
+        "Precio": 920
+    },
+    "Codigo": "GP8LJJWW",
+    "Descripcion": "Tostadora",
+    "Departamento": 1,
+    "Likes": 620
+}]
