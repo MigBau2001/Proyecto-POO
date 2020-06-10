@@ -1,0 +1,13 @@
+C:\Users\Miguel\Documents\GitHub\Proyecto-POO\ProyectoEnConsola\proyecto\bin\Debug\netcoreapp3.1\proyecto.exe
+C:\Users\Miguel\Documents\GitHub\Proyecto-POO\ProyectoEnConsola\proyecto\bin\Debug\netcoreapp3.1\proyecto.deps.json
+C:\Users\Miguel\Documents\GitHub\Proyecto-POO\ProyectoEnConsola\proyecto\bin\Debug\netcoreapp3.1\proyecto.runtimeconfig.json
+C:\Users\Miguel\Documents\GitHub\Proyecto-POO\ProyectoEnConsola\proyecto\bin\Debug\netcoreapp3.1\proyecto.runtimeconfig.dev.json
+C:\Users\Miguel\Documents\GitHub\Proyecto-POO\ProyectoEnConsola\proyecto\bin\Debug\netcoreapp3.1\proyecto.dll
+C:\Users\Miguel\Documents\GitHub\Proyecto-POO\ProyectoEnConsola\proyecto\bin\Debug\netcoreapp3.1\proyecto.pdb
+C:\Users\Miguel\Documents\GitHub\Proyecto-POO\ProyectoEnConsola\proyecto\obj\Debug\netcoreapp3.1\proyecto.csprojAssemblyReference.cache
+C:\Users\Miguel\Documents\GitHub\Proyecto-POO\ProyectoEnConsola\proyecto\obj\Debug\netcoreapp3.1\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\GitHub\Proyecto-POO\ProyectoEnConsola\proyecto\obj\Debug\netcoreapp3.1\proyecto.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\GitHub\Proyecto-POO\ProyectoEnConsola\proyecto\obj\Debug\netcoreapp3.1\proyecto.AssemblyInfo.cs
+C:\Users\Miguel\Documents\GitHub\Proyecto-POO\ProyectoEnConsola\proyecto\obj\Debug\netcoreapp3.1\proyecto.dll
+C:\Users\Miguel\Documents\GitHub\Proyecto-POO\ProyectoEnConsola\proyecto\obj\Debug\netcoreapp3.1\proyecto.pdb
+C:\Users\Miguel\Documents\GitHub\Proyecto-POO\ProyectoEnConsola\proyecto\obj\Debug\netcoreapp3.1\proyecto.genruntimeconfig.cache
