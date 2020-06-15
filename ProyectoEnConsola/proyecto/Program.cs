@@ -220,6 +220,7 @@ namespace proyecto
             Console.WriteLine("Se ha guardado el archivo.");
             Console.WriteLine("");
 
+            // Precio de productos de la fecha actual
             DateTime tiempoactual = DateTime.Now;
             Console.WriteLine("La fecha del dia de hoy es: " + tiempoactual);
             foreach(Producto p in productos)
@@ -232,6 +233,7 @@ namespace proyecto
                 }
             }
             Console.WriteLine("");
+            
             // De manera simple, obteniendo precio de un producto para la fecha ingresada.
             Console.WriteLine("Obteniendo precio de un producto para fecha ingresada.");
             decimal prec = Cpu.GetPrecio(fechaingresada);
